@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 مرحبا  بكم 
+باحث مبرمج تطبيقات الاندرويد  هل فيه احد يعلمنا مبداء إليه التطبيقات وخدمات التقنية 
 
 <!--
 **turki999/turki999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
